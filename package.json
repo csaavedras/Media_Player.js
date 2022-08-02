@@ -1,0 +1,14 @@
+{
+  "name": "mediaplayer",
+  "version": "1.0.0",
+  "description": "Proyecto del Curso Profesional de Javascript",
+  "keywords": [],
+  "author": "Camilo Saavedra",
+  "license": "MIT",
+  "scripts": {
+    "start": "live-server"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
